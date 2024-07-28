@@ -1,2 +1,11 @@
-# .vscode
+# build
+
+build/
+
+# vscode
+
 .vscode/
+
+# nala_interface_old
+
+nala_interface_old/
